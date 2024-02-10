@@ -10,3 +10,5 @@ loss-graphs.ipynb contains the code to extract the information and plot the loss
 Similarly, graphs-for-momentum-600.ipynb contains the loss graph and test accuracy graph for SGD with Momentum (600 epochs).
 test-accuracy-graphs.ipynb contains the test accuracy graphs for all algorithms when trained upto 200 epochs (except for NAG).
 Finally, test-accuracy-graphs-nag-nag-600-adagrad-600 has the test accuracy graphs for NAG (200 epochs), NAG (600 epochs) and AdaGrad (600 epochs)
+
+The text files data folder contains all the text files used in the .ipynb files in this work.
